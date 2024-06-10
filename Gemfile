@@ -6,3 +6,4 @@ source "https://rubygems.org"
 
 gem "rubocop", "~> 1.64"
 
+gem "rubocop-performance"
